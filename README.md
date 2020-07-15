@@ -13,7 +13,7 @@ This plugin defines a few helpful shortcuts to some colorls functions.
 - Clone the repository:
 
 ```zsh
-git clone https://github.com/kallahan23/zsh-colorls ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-colorls
+git clone https://github.com/Kallahan23/zsh-colorls ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-colorls
 ```
 
 - Enable this plugin by adding `zsh-colorls` to the plugins array in your zshrc file:
