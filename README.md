@@ -1,4 +1,4 @@
-# Colorls zsh Plugin
+# Color LS Zsh Plugin
 
 This plugin defines a few helpful shortcuts to some colorls functions.
 
