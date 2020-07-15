@@ -7,8 +7,8 @@ then
     alias l='colorls -l --sort-dirs'                 # List
     alias ll='colorls -lA --git-status --sort-dirs'  # List, show almost all files (excludes ./ and ../)
     alias la='colorls -la --sort-dirs'               # List, show all files
-    alias lt='colorls -lt  --git-status --sort-dirs' # List, sort by modification time (newest first)
-    alias lS='colorls -lS  --git-status --sort-dirs' # List, sort by size (largest first)
+    alias lt='colorls -lt  --git-status'             # List, sort by modification time (newest first)
+    alias lS='colorls -lS  --git-status'             # List, sort by size (largest first)
     alias lr='colorls --tree=5'                      # Show tree heirarchy, capped at depth 5 just in case
     alias lx='colorls -lAX --git-status'             # List, Sort by file type
 else
