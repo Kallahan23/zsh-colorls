@@ -12,5 +12,5 @@ then
     alias lr='colorls --tree=5'                      # Show tree heirarchy, capped at depth 5 just in case
     alias lx='colorls -lAX --git-status'             # List, Sort by file type
 else
-    alias ls='printf "Please install colorls to enable the zsh-colorls plugin\n\n" && ls --color'
+    alias ls='printf "Please install colorls to enable the zsh-colorls plugin\n\n" && ls --color=tty'
 fi
